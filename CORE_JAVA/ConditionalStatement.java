@@ -37,7 +37,7 @@ class ConditionalStatement{
 
         // Switch 
 
-        int day = --+6;
+        int day = 6;
         switch (day) {
             case 1:
                 System.out.println("Sun");
