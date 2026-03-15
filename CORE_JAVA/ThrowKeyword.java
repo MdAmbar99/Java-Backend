@@ -6,10 +6,6 @@ public class ThrowKeyword{
         int i=20;
         int j=0;
 
-        int nums[] = new int[5];
-
-        String str = null;
-
         try{
             j = 18/i;
             if(j==0)
@@ -25,7 +21,5 @@ public class ThrowKeyword{
         }
 
         System.out.println(j);
-
-        System.out.println("hello");
     }
 }
