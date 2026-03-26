@@ -10,6 +10,7 @@ public class Maps{
         Students.put("Aman", 22);
         Students.put("Aamir", 20);
         Students.put("Amar", 18);
+        Students.put("Imran", 16);
 
         Students.put("Ambar", 21);
 
