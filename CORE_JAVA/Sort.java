@@ -49,7 +49,6 @@ public class Sort{
         nums.add(29);
         nums.add(57);
 
-        System.out.println(nums);
 
         Collections.sort(nums, com);
 
